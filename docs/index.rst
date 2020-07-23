@@ -11,11 +11,4 @@ Welcome to Hang-Down's documentation!
    :caption: Contents:
 
    installation
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   features
