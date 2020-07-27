@@ -16,3 +16,4 @@ Welcome to Hang-Down's documentation!
 
    installation
    features
+   how_to_work1
