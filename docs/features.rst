@@ -2,7 +2,7 @@
 What can I do with it?
 #######################
 
-.. image:: _static/logo.jpg
+.. image:: /_static/images/logo.jpg
   :width: 500
   :alt: Hang-Down logo
 
