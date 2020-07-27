@@ -6,6 +6,10 @@
 Welcome to Hang-Down's documentation!
 =====================================
 
+.. image:: /_static/images/logo.jpg
+  :width: 400
+  :alt: Hang-Down logo
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
